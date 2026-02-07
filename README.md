@@ -1,4 +1,3 @@
 ## Hi there 👋
 - 🌱 I’m currently learning every bascis possible
-- 👯 I’m looking to collaborate with anyone that are willing to help me develop
-- 🤔 I’m looking for help with anything that teaches me something new
+- 👯 I’m looking to collaborate with anyone that are willing to help me develop my skills
